@@ -1,0 +1,68 @@
+.icons{
+	text-align: right;
+
+}
+
+.icons .icon{
+	display: inline-block;
+	text-align: center;
+	margin-left: 15px
+}
+
+.main-menu{
+	background: darkgreen;
+	margin-bottom: 0;
+	border: none;
+	border-radius: 0
+}
+.banner{
+	position: relative;
+}
+
+.banner img{
+	width: 100%
+}
+
+.banner .banner-text{
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	color: #fff
+}
+
+.main{
+	padding: 15px 0
+}
+.news{
+	padding: 15px 5px
+}
+
+.ft-top{
+	background: #333;
+	padding: 10px 0;
+	color: #fff
+}
+
+.ft-middle{
+	background: #444;
+	padding: 15px 0
+}
+.ft-middle ul{
+	list-style: none
+}
+
+.ft-middle ul li a{
+	color: #fff;
+	text-decoration: none;
+	line-height: 25px
+}
+
+.ft-bottom{
+	background: #333;
+	color: #fff;
+	padding: 15px 0
+}
+.ft-bottom a{
+	font-size: 20px;
+	margin-left: 15px
+}
